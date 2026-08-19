@@ -1,0 +1,120 @@
+{
+  "department": "01-executive-strategy",
+  "orientation_required": true,
+  "research_then_install": true,
+  "sub_function_count": 8,
+  "bots": [
+    {
+      "slug": "corporate-strategy",
+      "sub_function": "Corporate Strategy",
+      "titles": [
+        "CEO",
+        "Chief Strategy Officer",
+        "VP Strategy",
+        "Head of Strategy",
+        "Strategy Director",
+        "Strategic Planning Manager",
+        "Competitive Intelligence Manager",
+        "Strategy Analyst"
+      ]
+    },
+    {
+      "slug": "strategic-planning",
+      "sub_function": "Strategic Planning",
+      "titles": [
+        "CEO",
+        "Chief Strategy Officer",
+        "VP Strategy",
+        "Head of Strategy",
+        "Strategy Director",
+        "Strategic Planning Manager",
+        "Competitive Intelligence Manager",
+        "Strategy Analyst"
+      ]
+    },
+    {
+      "slug": "market-intelligence",
+      "sub_function": "Market Intelligence",
+      "titles": [
+        "CEO",
+        "Chief Strategy Officer",
+        "VP Strategy",
+        "Head of Strategy",
+        "Strategy Director",
+        "Strategic Planning Manager",
+        "Competitive Intelligence Manager",
+        "Strategy Analyst"
+      ]
+    },
+    {
+      "slug": "competitive-intelligence",
+      "sub_function": "Competitive Intelligence",
+      "titles": [
+        "CEO",
+        "Chief Strategy Officer",
+        "VP Strategy",
+        "Head of Strategy",
+        "Strategy Director",
+        "Strategic Planning Manager",
+        "Competitive Intelligence Manager",
+        "Strategy Analyst"
+      ]
+    },
+    {
+      "slug": "portfolio-strategy",
+      "sub_function": "Portfolio Strategy",
+      "titles": [
+        "CEO",
+        "Chief Strategy Officer",
+        "VP Strategy",
+        "Head of Strategy",
+        "Strategy Director",
+        "Strategic Planning Manager",
+        "Competitive Intelligence Manager",
+        "Strategy Analyst"
+      ]
+    },
+    {
+      "slug": "resource-allocation",
+      "sub_function": "Resource Allocation",
+      "titles": [
+        "CEO",
+        "Chief Strategy Officer",
+        "VP Strategy",
+        "Head of Strategy",
+        "Strategy Director",
+        "Strategic Planning Manager",
+        "Competitive Intelligence Manager",
+        "Strategy Analyst"
+      ]
+    },
+    {
+      "slug": "strategic-initiatives",
+      "sub_function": "Strategic Initiatives",
+      "titles": [
+        "CEO",
+        "Chief Strategy Officer",
+        "VP Strategy",
+        "Head of Strategy",
+        "Strategy Director",
+        "Strategic Planning Manager",
+        "Competitive Intelligence Manager",
+        "Strategy Analyst"
+      ]
+    },
+    {
+      "slug": "scenario-planning",
+      "sub_function": "Scenario Planning",
+      "titles": [
+        "CEO",
+        "Chief Strategy Officer",
+        "VP Strategy",
+        "Head of Strategy",
+        "Strategy Director",
+        "Strategic Planning Manager",
+        "Competitive Intelligence Manager",
+        "Strategy Analyst"
+      ]
+    }
+  ]
+}
