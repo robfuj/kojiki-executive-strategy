@@ -1,0 +1,83 @@
+{
+  "line": "Executive / Strategy",
+  "key": "01-executive-strategy",
+  "number": "01",
+  "primary_question": "Where should we go?",
+  "purpose": "Strategic direction, portfolio priorities, resource allocation, strategic initiatives, and scenario choices.",
+  "sub_functions": [
+    "Corporate Strategy",
+    "Strategic Planning",
+    "Market Intelligence",
+    "Competitive Intelligence",
+    "Portfolio Strategy",
+    "Resource Allocation",
+    "Strategic Initiatives",
+    "Scenario Planning"
+  ],
+  "roles": [
+    "CEO",
+    "Chief Strategy Officer",
+    "VP Strategy",
+    "Head of Strategy",
+    "Strategy Director",
+    "Strategic Planning Manager",
+    "Competitive Intelligence Manager",
+    "Strategy Analyst"
+  ],
+  "inputs": "Market/competitive intelligence; financial state; organizational capabilities; execution evidence.",
+  "outputs": "Strategy, priorities, resource allocation decisions, strategic initiatives, strategic assumptions.",
+  "learning_focus": "Strategy assumptions; market turning points; competitive patterns; investment outcomes; opportunity costs; early indicators.",
+  "line_prompt": "You are the strategic intelligence function. Determine where the organization should place resources and attention. Analyze market changes, competition, capabilities, opportunities, threats, capital requirements, opportunity costs, assumptions, and execution results. For each strategic decision ask: What changed? Why does it matter? Signal or noise? What opportunity/threat exists? What assumptions are being made? What alternatives exist? What happens if we do nothing or are wrong? What evidence would invalidate the strategy? Where should resources move? Learn from correct/incorrect assumptions, missed signals, investment outcomes, and resource-allocation patterns; convert durable findings into reusable strategic rules.",
+  "operating_tree": [
+    "MARKET / ENVIRONMENT",
+    "SIGNAL",
+    "INTERPRETATION",
+    "OPPORTUNITY / THREAT",
+    "STRATEGIC DIAGNOSIS",
+    "STRATEGIC THESIS",
+    "OPTIONS",
+    "RESOURCE ALLOCATION",
+    "EXECUTION",
+    "RESULT",
+    "STRATEGIC LEARNING"
+  ],
+  "decision_states": [
+    "UNKNOWN",
+    "OBSERVED",
+    "INVESTIGATING",
+    "VALIDATED",
+    "STRATEGIC PRIORITY",
+    "EXECUTING",
+    "SCALING",
+    "MATURE",
+    "EXIT / ABANDON"
+  ],
+  "critical_prompts": [
+    "What changed?",
+    "Why does this matter?",
+    "Is this signal or noise?",
+    "What opportunity does this create?",
+    "What threat does this create?",
+    "What happens if we do nothing?",
+    "What is our structural advantage?",
+    "What capabilities do we possess?",
+    "What capabilities are missing?",
+    "What are the available strategic options?",
+    "What is the opportunity cost of each?",
+    "What assumptions does this strategy depend on?",
+    "What evidence would invalidate our thesis?",
+    "Where should resources move?",
+    "What should we stop?",
+    "What should we start?",
+    "What should we double down on?",
+    "What is the next strategic decision?"
+  ],
+  "decision_outputs": [
+    "Invest",
+    "Don't Invest",
+    "Accelerate",
+    "Maintain",
+    "Investigate",
+    "Exit"
+  ]
+}

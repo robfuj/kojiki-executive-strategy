@@ -1,0 +1,45 @@
+{
+  "decision_object": {
+    "decision_id": "EXEC-2026-014",
+    "decision_name": "Mid-market expansion thesis",
+    "owning_function": "Executive / Strategy",
+    "decision_owner_role": "Chief Strategy Officer",
+    "trigger_condition": "Competitor raised $40M for mid-market; 2 inbound SMB-scale leads/mo",
+    "current_state": "Enterprise-only; mid-market unnamed in pipeline",
+    "required_inputs": [
+      "competitor funding signal",
+      "inbound lead mix",
+      "unit economics model"
+    ],
+    "evidence_threshold": "Direct customer-demand signal required before acting on competitor raise",
+    "available_options": [
+      "Run 90-day lightweight pilot",
+      "Partner with mid-market reseller",
+      "Stay enterprise-only"
+    ],
+    "decision_criteria": "Positive LTV:CAC AND product fit at mid-market scale",
+    "constraints": "Sales-led motion only; no self-serve",
+    "risk_level": "medium",
+    "delegation_level": "Recommend",
+    "escalation_conditions": "CAC exceeds enterprise CAC by >2x",
+    "expected_outcome": "Validated thesis or fatal misfit within 90 days",
+    "verification_method": "5 discovery calls + unit-economics model",
+    "actual_outcome": "Discovery: mid-market needs self-serve; we are sales-led only",
+    "learning_extracted": "Competitor raises alone are insufficient demand proof",
+    "rule_version": "EXEC-RULE-003",
+    "last_reviewed": "2026-08-18"
+  },
+  "learning_ledger": {
+    "case": "Should we enter the mid-market segment?",
+    "decision": "Investigate (pilot)",
+    "assumption": "Mid-market reachable with a lighter packaging motion",
+    "action": "2-week economics model + 5 customer discovery calls",
+    "expected_result": "Positive LTV:CAC OR fatal misfit",
+    "actual_result": "Self-serve need surfaced; sales-led only",
+    "variance": "Channel mismatch, not demand absence",
+    "cause": "Our motion cannot serve smaller buyers efficiently",
+    "learning": "Competitor funding is a weak demand signal without direct proof",
+    "rule_update": "Require direct customer-demand signal before acting on competitor raises"
+  },
+  "orientation_required": true
+}
