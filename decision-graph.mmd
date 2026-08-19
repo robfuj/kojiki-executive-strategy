@@ -1,37 +1,37 @@
 ```mermaid
 flowchart TD
-    n0["MARKET  /  ENVIRONMENT"]
-    n1["SIGNAL"]
-    n2["INTERPRETATION"]
-    n3["OPPORTUNITY  /  THREAT"]
-    n4["STRATEGIC DIAGNOSIS"]
-    n5["STRATEGIC THESIS"]
-    n6["OPTIONS"]
-    n7["RESOURCE ALLOCATION"]
-    n8["EXECUTION"]
-    n9["RESULT"]
-    n10["STRATEGIC LEARNING"]
-    n0 --> n1
-    n1 --> n2
-    n2 --> n3
-    n3 --> n4
-    n4 --> n5
-    n5 --> n6
-    n6 --> n7
-    n7 --> n8
-    n8 --> n9
-    n9 --> n10
-    n0 -->|learning| n0
+ n0["MARKET  /  ENVIRONMENT"]
+ n1["SIGNAL"]
+ n2["INTERPRETATION"]
+ n3["OPPORTUNITY  /  THREAT"]
+ n4["STRATEGIC DIAGNOSIS"]
+ n5["STRATEGIC THESIS"]
+ n6["OPTIONS"]
+ n7["RESOURCE ALLOCATION"]
+ n8["EXECUTION"]
+ n9["RESULT"]
+ n10["STRATEGIC LEARNING"]
+ n0 --> n1
+ n1 --> n2
+ n2 --> n3
+ n3 --> n4
+ n4 --> n5
+ n5 --> n6
+ n6 --> n7
+ n7 --> n8
+ n8 --> n9
+ n9 --> n10
+ n0 -->|learning| n0
 
 stateDiagram-v2
-    [*] --> UNKNOWN
-    UNKNOWN --> OBSERVED
-    OBSERVED --> INVESTIGATING
-    INVESTIGATING --> VALIDATED
-    VALIDATED --> STRATEGIC PRIORITY
-    STRATEGIC PRIORITY --> EXECUTING
-    EXECUTING --> SCALING
-    SCALING --> MATURE
-    MATURE --> EXIT / ABANDON
-    EXIT / ABANDON --> [*]
+ [*] --> UNKNOWN
+ UNKNOWN --> OBSERVED
+ OBSERVED --> INVESTIGATING
+ INVESTIGATING --> VALIDATED
+ VALIDATED --> STRATEGIC PRIORITY
+ STRATEGIC PRIORITY --> EXECUTING
+ EXECUTING --> SCALING
+ SCALING --> MATURE
+ MATURE --> EXIT / ABANDON
+ EXIT / ABANDON --> [*]
 ```
